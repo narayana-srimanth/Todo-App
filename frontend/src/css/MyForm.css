@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
+
+.inp{
+    width: 20vw;
+    height: 3vh;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+/* .inputitem{
+    margin: auto;
+} */
+
+.btn{
+    background-color: #04AA6D;
+    margin: 3px;
+    border: black;
+    width: 5vw;
+    height: 5vh;
+}
